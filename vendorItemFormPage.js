@@ -11,7 +11,6 @@ function VendorItemFormPage({ editingItem, items, setItems, setShowForm, setEdit
     dietary: "Vegetarian",
     expiryMinutes: 60
   });
-  
 
   const handleSubmit = (e) => {
     e.preventDefault();
