@@ -1,0 +1,9 @@
+{
+  "short_name": "EchoEats",
+  "name": "EchoEats - Dynamic Pricing Food Marketplace",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FF6B35",
+  "background_color": "#FFF8F0"
+}
